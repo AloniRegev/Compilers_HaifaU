@@ -15,3 +15,5 @@ Exercise in building a compiler from C language to P-code language (assembly-lik
      - AST - Print the AST tree of C file.
      - SymTab - Printing the Symbol Table of C file.
    
+## Author:
+- [Regev Aloni](https://github.com/AloniRegev)
