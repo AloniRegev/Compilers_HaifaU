@@ -1,0 +1,10 @@
+100
+
+---------------------------------
+Number of jump operations: 1
+Number of complex operations: 1
+Number of simple operations: 0
+
+Jump operations = {fjp, ujp, ixj}
+Complex operations = {mul, div, ixa}
+Simple operations = {add, sub, equ, neq, les, grt, leq, qeu, and, or, neg, not, ixa, dec, inc}

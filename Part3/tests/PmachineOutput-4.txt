@@ -1,0 +1,15 @@
+99
+888888
+99
+2
+99
+2
+
+---------------------------------
+Number of jump operations: 7
+Number of complex operations: 0
+Number of simple operations: 6
+
+Jump operations = {fjp, ujp, ixj}
+Complex operations = {mul, div, ixa}
+Simple operations = {add, sub, equ, neq, les, grt, leq, qeu, and, or, neg, not, ixa, dec, inc}

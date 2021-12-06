@@ -1,0 +1,22 @@
+1
+2
+3
+4
+1
+2
+3
+1
+2
+1
+42
+-30
+1
+
+---------------------------------
+Number of jump operations: 42
+Number of complex operations: 2
+Number of simple operations: 43
+
+Jump operations = {fjp, ujp, ixj}
+Complex operations = {mul, div, ixa}
+Simple operations = {add, sub, equ, neq, les, grt, leq, qeu, and, or, neg, not, ixa, dec, inc}
