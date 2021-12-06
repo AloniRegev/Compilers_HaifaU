@@ -14,6 +14,9 @@ Exercise in building a compiler from C language to P-code language (assembly-lik
      - Pcode - Print the P-code of C file.
      - AST - Print the AST tree of C file.
      - SymTab - Printing the Symbol Table of C file.
-   
+
+### Output:
+- You can compile the P-code output obtained from the compiler at the [link](https://mw10.haifa.ac.il/pluginfile.php/164232/mod_assign/intro/Pmachine.html).
+- You can check the desired output from the additional test files at the [link](https://text-compare.com).   
 ## Author:
 - [Regev Aloni](https://github.com/AloniRegev)
