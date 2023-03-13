@@ -1,5 +1,5 @@
 # Haifa University Compilers Project
-Compiler from C language to P-code language (assembly-like language for educational needs) from the Compilers course of the University of Haifa.
+A compiler that converts C language code into P-code language, which is an assembly-like language used for educational purposes. This compiler was developed as part of the Compilers course at the University of Haifa.
 
 
 ### Run me:
